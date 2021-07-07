@@ -1,4 +1,5 @@
-# 👋 Hi, I’m @LuisRenePanjon and I'm Software Developer. 🖥
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=👋 Hi, I’m @LuisRenePanjon and I'm Software Developer. 🖥)](https://git.io/typing-svg)
 ## 👀 I’m interested in learn technologies and generate innovative solutions with software.
 ## 🌱 I’m currently learning new technologies, frameworks and methodologies to create quality software
 ## 🧑‍💼 I’m looking to collaborate in companies focused on developing solutions and be able to contribute with my knowledge
