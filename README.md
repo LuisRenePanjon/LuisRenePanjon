@@ -9,7 +9,7 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=LuisRenePanjon&line=00d13b&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
-## 🌎 Languages:
+# Languages 🌎:
 <ul>
   <li>Spanish(native)</li>
   <li>English(B1)</li>
