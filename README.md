@@ -3,6 +3,28 @@
 ## 👀 I’m interested in learn technologies and generate innovative solutions with software.
 ## 🌱 I’m currently learning new technologies, frameworks and methodologies to create quality software
 ## 🧑‍💼 I’m looking to collaborate in companies focused on developing solutions and be able to contribute with my knowledge
+
+<h2>Some of my works done:</h2>
+
+<h3>Chipotlebar</h3>
+<a href="https://chipotlebar.com/">www.chipotlebar.com</a>
+Technologies
+<ul>
+  <li>Angular</li>
+  <li>Firestore</li>
+  <li>Authentication</li>
+</ul>
+
+<h3>FACTEC</h3>
+* This project is my tesis, acctually is on test internal in Google Play
+Technologies
+<ul>
+  <li>React Native</li>
+  <li>Cloud Functions(Node js)</li>
+  <li>Authentication</li>
+  <li>Firestore</li>
+  <li>Mailjet</li>
+</ul>
 <h2> 🌎 Languages:</h2> 
 <ul>
   <li>Spanish(native)</li>
