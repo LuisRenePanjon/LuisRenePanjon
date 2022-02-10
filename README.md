@@ -8,7 +8,8 @@
 
 <h3>Chipotlebar</h3>
 <a href="https://chipotlebar.com/">www.chipotlebar.com</a>
-Technologies
+<h4>Technologies</h4>
+
 <ul>
   <li>Angular</li>
   <li>Firestore</li>
@@ -16,8 +17,9 @@ Technologies
 </ul>
 
 <h3>FACTEC</h3>
-* This project is my tesis, acctually is on test internal in Google Play
-Technologies
+* This project is my tesis, acctually is in test internal in Google Play.
+<h4>Technologies</h4>
+
 <ul>
   <li>React Native</li>
   <li>Cloud Functions(Node js)</li>
