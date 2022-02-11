@@ -4,6 +4,49 @@
 ## 🌱 I’m currently learning new technologies, frameworks and methodologies to create quality software
 ## 🧑‍💼 I’m looking to collaborate in companies focused on developing solutions and be able to contribute with my knowledge
 
+<h2>My knowledge:</h2>
+### Front-end
+#### Languages
+<ul>
+  <li>Html</li>
+  <li>Javascript</li>
+  <li>Css</li>
+</ul>
+#### Frameworks and Libraries
+<ul>
+  <li>Angular</li>
+  <li>React</li>
+</ul>
+### Back-end
+#### Languages
+<ul>
+  <li>Java</li>
+  <li>Javascript</li>
+  <li>Python</li>
+</ul>
+#### Frameworks
+<ul>
+  <li>Spring Boot</li>
+  <li>NodeJs</li>
+  <li>Django</li>
+</ul>
+### Database
+#### SQL
+<ul>
+  <li>PostgreSQL</li>
+  <li>MySQL</li>
+</ul>
+#### No SQL
+<ul>
+  <li>Firestore</li>
+  <li>MongoDB</li>
+</ul>
+### Tools
+<ul>
+  <li>Git</li>
+  <li>Docker</li>
+</ul>
+
 <h2>Some of my works done:</h2>
 
 <h3>Chipotlebar</h3>
