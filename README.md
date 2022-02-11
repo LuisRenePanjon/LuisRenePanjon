@@ -43,6 +43,15 @@
   <li>NodeJs</li>
   <li>Django</li>
 </ul>
+
+<h3>Mobile</h3>
+<h4>Frameworks</h4>
+
+<ul>
+  <li>React Native</li>
+  <li>Flutter</li>
+</ul>
+
 <h3>Database</h3>
 
 <h4>SQL</h4>
