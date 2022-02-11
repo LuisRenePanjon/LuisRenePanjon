@@ -5,43 +5,60 @@
 ## 🧑‍💼 I’m looking to collaborate in companies focused on developing solutions and be able to contribute with my knowledge
 
 <h2>My knowledge:</h2>
-### Front-end
-#### Languages
-<ul>
+<div>
+  <div>
+    <h3>Front-end</h3>
+  <h4>Languages</h4>
+  <ul>
   <li>Html</li>
   <li>Javascript</li>
   <li>Css</li>
 </ul>
-#### Frameworks and Libraries
+<h4>Frameworks and Libraries</h4>
+
 <ul>
   <li>Angular</li>
   <li>React</li>
-</ul>
-### Back-end
-#### Languages
+ </ul>
+
+</div>
+  <div>
+</div>
+  <div>
+</div>
+</div>
+<h3>Back-end</h3>
+
+<h4>Languages</h4>
+
 <ul>
   <li>Java</li>
   <li>Javascript</li>
   <li>Python</li>
 </ul>
-#### Frameworks
+<h4>Frameworks</h4>
+
 <ul>
   <li>Spring Boot</li>
   <li>NodeJs</li>
   <li>Django</li>
 </ul>
-### Database
-#### SQL
+<h3>Database</h3>
+
+<h4>SQL</h4>
+
 <ul>
   <li>PostgreSQL</li>
   <li>MySQL</li>
 </ul>
-#### No SQL
+<h4>No SQL</h4>
+
 <ul>
   <li>Firestore</li>
   <li>MongoDB</li>
 </ul>
-### Tools
+<h3>Tools</h3>
+
 <ul>
   <li>Git</li>
   <li>Docker</li>
