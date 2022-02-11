@@ -3,7 +3,7 @@
 ## 👀 I’m interested in learn technologies and generate innovative solutions with software.
 ## 🌱 I’m currently learning new technologies, frameworks and methodologies to create quality software
 ## 🧑‍💼 I’m looking to collaborate in companies focused on developing solutions and be able to contribute with my knowledge
-
+## 🧑‍ My principles are ethics, responsibility and respect.
 <h2>My knowledge:</h2>
 <div>
   <div>
