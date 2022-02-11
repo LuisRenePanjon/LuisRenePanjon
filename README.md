@@ -87,6 +87,7 @@
 
 <h3>FACTEC</h3>
 * This project is my tesis, acctually is in test internal in Google Play.
+* This is a app mobile for electronic invoice in Ecuador.
 <h4>Technologies</h4>
 
 <ul>
