@@ -97,6 +97,12 @@
   <li>Firestore</li>
   <li>Mailjet</li>
 </ul>
+
+## 📈 &nbsp;&nbsp;My stats are:
+<p align="center">
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=LuisRenePanjon&theme=buefy&show_icons=true&hide=contribs" />
+</p>
+
 <h2> 🌎 Languages:</h2> 
 <ul>
   <li>Spanish(native)</li>
