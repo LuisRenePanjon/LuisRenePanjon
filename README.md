@@ -1,16 +1,20 @@
-<style>
-.container-skill {
-    display:flex;
-  flex-direction:row;
-}
 
-.area-container {
-  width: 50%;
-}
-</style>
 
-# Welcome 😄
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=👋+Hi,+I’m+@LuisRenePanjon+and+I'm+Software+Engineer.+🖥)](https://git.io/typing-svg)
+## Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=💻+Hi,+I’m+@LuisRenePanjon+and+I'm+Software+Engineer.+🖥)](https://git.io/typing-svg)
+
+[📬](mailto:luchorene97@gmail.com) 
+<a href="https://portfolio-reneloper.web.app/">
+  <img align="left" alt="Portfolio" width="28px" src="https://cdn.pixabay.com/photo/2017/02/23/13/05/avatar-2092113_960_720.png" />
+</a>
+<a href="https://www.linkedin.com/in/ren%C3%A9-panj%C3%B3n-a019b6174/">
+  <img align="left" alt="LinkedIN" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
+<br />
+
 ## 👀 I’m interested in learn technologies and generate innovative solutions with software.
 ## 🌱 I’m currently learning new technologies, frameworks and methodologies to create quality software
 ## 🧑‍💼 I’m looking to collaborate in companies focused on developing solutions and be able to contribute with my knowledge
@@ -25,11 +29,12 @@
   <li>Javascript</li>
   <li>Css</li>
 </ul>
-<h4>Frameworks and Libraries</h4>
+<h4 >Frameworks and Libraries</h4>
 
 <ul>
   <li>Angular</li>
   <li>React</li>
+  <li>NextJs</li>
  </ul>
 
 </div>
@@ -52,6 +57,7 @@
 <ul>
   <li>Spring Boot</li>
   <li>NodeJs</li>
+  <li>NestJs</li>
   <li>Django</li>
 </ul>
 
@@ -118,11 +124,6 @@
 <ul>
   <li>Spanish(native)</li>
   <li>English(B1)</li>
-</ul>
-<h2> 🌐 My social networks:</h2>
-<ul>
-  <li><a href="https://www.linkedin.com/in/ren%C3%A9-panj%C3%B3n-a019b6174/" alt="linkedin">Linkedin</a></li>
-  <li>luchorene97@gmail.com</li>
 </ul>
 
 <!---
