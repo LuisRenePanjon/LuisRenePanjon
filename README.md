@@ -1,12 +1,23 @@
+<style>
+.container-skill {
+    display:flex;
+  flex-direction:row;
+}
+
+.area-container {
+  width: 50%;
+}
+</style>
+
 # Welcome 😄
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=👋+Hi,+I’m+@LuisRenePanjon+and+I'm+Software+Engineer.+🖥)](https://git.io/typing-svg)
 ## 👀 I’m interested in learn technologies and generate innovative solutions with software.
 ## 🌱 I’m currently learning new technologies, frameworks and methodologies to create quality software
 ## 🧑‍💼 I’m looking to collaborate in companies focused on developing solutions and be able to contribute with my knowledge
 ## 🧑‍ My principles are ethics, responsibility and respect.
-<h2>My knowledge:</h2>
-<div>
-  <div>
+<h2>My Skills:</h2>
+<div class="container-skill">
+  <div class="area-container">
     <h3>Front-end</h3>
   <h4>Languages</h4>
   <ul>
