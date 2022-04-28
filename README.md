@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=💻+Hi,+I’m+@LuisRenePanjon+and+I'm+Software+Engineer.+🖥)](https://git.io/typing-svg)
 
-[📬](mailto:luchorene97@gmail.com) 
+[luchorene97@gmail.com](mailto:luchorene97@gmail.com) 
 <a href="https://portfolio-reneloper.web.app/">
   <img align="left" alt="Portfolio" width="28px" src="https://cdn.pixabay.com/photo/2017/02/23/13/05/avatar-2092113_960_720.png" />
 </a>
