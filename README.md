@@ -8,7 +8,7 @@
 <a href="https://portfolio-reneloper.web.app/">
   <img align="left" alt="Portfolio" width="28px" src="https://cdn.pixabay.com/photo/2017/02/23/13/05/avatar-2092113_960_720.png" />
 </a>
-<a href="https://www.linkedin.com/in/ren%C3%A9-panj%C3%B3n-a019b6174/">
+<a href="https://www.linkedin.com/in/renepb97/">
   <img align="left" alt="LinkedIN" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
