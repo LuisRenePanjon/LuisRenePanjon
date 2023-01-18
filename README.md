@@ -32,7 +32,7 @@
   <li>AWS APIGATEWAY</li>
 </ul>
     <p>I have been worked with AWS services like AWS LAMBDA, API GATEWAY, S3 to build a serverless infra-structure, also I have experience with frameworks as Nest.js and Spring boot to build REST API</p>
-    <h3>Main Goals</h3>
+    <h3>Main achievements</h3>
     <ul>
     <li>I have been done payments integrations with Stripe, DLocal and Transbank(Chile) in differentes applications for our clients.</li>
     <li>I made a security layer to transactions 3DS for all transactions in our product</li>
