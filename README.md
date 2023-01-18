@@ -6,10 +6,10 @@
 
 [luchorene97@gmail.com](mailto:luchorene97@gmail.com) 
 <a href="https://portfolio-reneloper.web.app/">
-  <img align="left" alt="Portfolio" width="28px" src="https://cdn.pixabay.com/photo/2017/02/23/13/05/avatar-2092113_960_720.png" />
+  <img align="left" alt="Portfolio" width="40px" src="https://cdn.pixabay.com/photo/2017/02/23/13/05/avatar-2092113_960_720.png" />
 </a>
 <a href="https://www.linkedin.com/in/renepb97/">
-  <img align="left" alt="LinkedIN" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
@@ -22,19 +22,30 @@
 <h2>My Skills:</h2>
 <div class="container-skill">
   <div class="area-container">
-    <h3>Front-end</h3>
-  <h4>Languages</h4>
-  <ul>
-  <li>Html</li>
-  <li>Javascript</li>
-  <li>Css</li>
+    <h3>Back-end</h3>
+
+<ul>
+  <li>NodeJs</li>
+  <li>NestJs 🐈‍⬛</li>
+  <li>Spring Boot 🥬</li>
+  <li>AWS LAMBDA</li>
+  <li>AWS APIGATEWAY</li>
 </ul>
+    <p>I have been worked with AWS services like AWS LAMBDA, API GATEWAY, S3 to build a serverless infra-structure, also I have experience with frameworks as Nest.js and Spring boot to build REST API</p>
+    <h3>Main Goals</h3>
+    <ul>
+    <li>I have been done payments integrations with Stripe, DLocal and Transbank(Chile) in differentes applications for our clients.</li>
+    <li>I made a security layer to transactions 3DS for all transactions in our product</li>
+    <li>Automate processes as renew tokens to payments of our clients and subscription charges.</li>
+    </ul>
+<h3>Front-end</h3>
 <h4 >Frameworks and Libraries</h4>
 
 <ul>
-  <li>Angular</li>
   <li>React</li>
+  <li>Angular</li>
   <li>NextJs</li>
+  <li>TailwindCSS as CSS framework</li>
  </ul>
 
 </div>
@@ -43,30 +54,12 @@
   <div>
 </div>
 </div>
-<h3>Back-end</h3>
 
-<h4>Languages</h4>
-
-<ul>
-  <li>Java</li>
-  <li>Javascript</li>
-  <li>Python</li>
-</ul>
-<h4>Frameworks</h4>
-
-<ul>
-  <li>Spring Boot</li>
-  <li>NodeJs</li>
-  <li>NestJs</li>
-  <li>Django</li>
-</ul>
 
 <h3>Mobile</h3>
-<h4>Frameworks</h4>
 
 <ul>
   <li>React Native</li>
-  <li>Flutter</li>
 </ul>
 
 <h3>Database</h3>
@@ -74,21 +67,22 @@
 <h4>SQL</h4>
 
 <ul>
-  <li>PostgreSQL</li>
-  <li>MySQL</li>
+  <li>PostgreSQL 🐘</li>
+  <li>MySQL 🐬</li>
 </ul>
 <h4>No SQL</h4>
 
 <ul>
-  <li>Firestore</li>
+  <li>Firestore 🔥</li>
   <li>MongoDB</li>
 </ul>
 <h3>Tools</h3>
 
 <ul>
   <li>Git</li>
-  <li>Docker</li>
+  <li>Docker 🐳</li>
 </ul>
+
 
 <h2>Some of my works done:</h2>
 
