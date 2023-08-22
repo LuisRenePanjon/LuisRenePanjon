@@ -111,7 +111,7 @@
 
 ## 📈 &nbsp;&nbsp;My stats are:
 <p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=LuisPanjonB&theme=buefy&show_icons=true&hide=contribs" />
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=LuisPanjonB&theme=buefy&show_icons=true" />
 </p>
 
 <h2> 🌎 Languages:</h2> 
